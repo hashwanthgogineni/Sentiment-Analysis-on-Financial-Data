@@ -3,7 +3,7 @@
 
 Project Description:-
 
--> The Project includes sentiment prediction of financial news. 
+-> The project includes sentiment prediction of financial news. 
 
 -> The model has been trained using 2000(approx) financial text data.
 
